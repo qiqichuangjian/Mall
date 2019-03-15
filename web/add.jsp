@@ -14,12 +14,6 @@
 <form action="ItemsServlet">
     <input type="hidden" name="method" value="add">
     <table>
-        <%--<tr>--%>
-            <%--<td>id</td>--%>
-            <%--<td>--%>
-                <%--<input type="text" name="id" >--%>
-            <%--</td>--%>
-        <%--</tr>--%>
         <tr>
             <td>name</td>
             <td>
